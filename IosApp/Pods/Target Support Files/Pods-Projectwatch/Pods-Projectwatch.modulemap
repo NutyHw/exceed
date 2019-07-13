@@ -1,0 +1,6 @@
+framework module Pods_Projectwatch {
+  umbrella header "Pods-Projectwatch-umbrella.h"
+
+  export *
+  module * { export * }
+}
