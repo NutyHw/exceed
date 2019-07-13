@@ -105,7 +105,6 @@ def hit():
           results = r.json()
           print(results)
           sleep(1)
-          print("Hee")
           print(results)
       
 
